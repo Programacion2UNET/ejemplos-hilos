@@ -1,0 +1,10 @@
+/home/skatox/EjemploHilos/EjemploHilos/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/skatox/EjemploHilos/EjemploHilos/bin/Release/EjemploHilos.exe.mdb
+/home/skatox/EjemploHilos/EjemploHilos/bin/Release/EjemploHilos.exe
+/home/skatox/EjemploHilos/EjemploHilos/obj/x86/Release/EjemploHilos.exe
+/home/skatox/EjemploHilos/EjemploHilos/obj/x86/Release/EjemploHilos.exe.mdb
+/media/DOCUMENTOS/MIGUELJR/UNET/2-Programación II/MaterialDeApoyo/Codigos/Hilos/EjemploHilosC#/EjemploHilos/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/DOCUMENTOS/MIGUELJR/UNET/2-Programación II/MaterialDeApoyo/Codigos/Hilos/EjemploHilosC#/EjemploHilos/bin/Release/EjemploHilos.exe.mdb
+/media/DOCUMENTOS/MIGUELJR/UNET/2-Programación II/MaterialDeApoyo/Codigos/Hilos/EjemploHilosC#/EjemploHilos/bin/Release/EjemploHilos.exe
+/media/DOCUMENTOS/MIGUELJR/UNET/2-Programación II/MaterialDeApoyo/Codigos/Hilos/EjemploHilosC#/EjemploHilos/obj/x86/Release/EjemploHilos.exe
+/media/DOCUMENTOS/MIGUELJR/UNET/2-Programación II/MaterialDeApoyo/Codigos/Hilos/EjemploHilosC#/EjemploHilos/obj/x86/Release/EjemploHilos.exe.mdb

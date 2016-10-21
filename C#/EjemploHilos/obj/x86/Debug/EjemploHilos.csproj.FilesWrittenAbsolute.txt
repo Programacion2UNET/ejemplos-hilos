@@ -1,0 +1,5 @@
+/home/skatox/EjemploHilos/EjemploHilos/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/skatox/EjemploHilos/EjemploHilos/bin/Debug/EjemploHilos.exe.mdb
+/home/skatox/EjemploHilos/EjemploHilos/bin/Debug/EjemploHilos.exe
+/home/skatox/EjemploHilos/EjemploHilos/obj/x86/Debug/EjemploHilos.exe
+/home/skatox/EjemploHilos/EjemploHilos/obj/x86/Debug/EjemploHilos.exe.mdb
